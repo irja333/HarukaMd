@@ -19,7 +19,7 @@
     "autobio": false,
     "anticall": true,
     "autorespond": false,
-    "autoblok212": false,
+    "autoblok212": true,
     "autoread": false,
     "gamewaktu": 90,
     "limitCount": 25,
